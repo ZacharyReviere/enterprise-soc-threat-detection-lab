@@ -88,3 +88,14 @@ Screenshots documenting the SOC dashboard, Windows authentication events, and co
 ## Key Takeaways
 
 This project provided hands-on experience building a basic SOC monitoring workflow from endpoint telemetry collection through detection and alerting. It demonstrates how SIEM platforms can transform raw Windows logs into actionable security detections.
+
+## Lab Screenshots
+
+### SOC Security Monitoring Dashboard
+![SOC Security Monitoring Dashboard](Screenshot%202026-08-09%20at%2010.03.47%20PM.png)
+
+### Suspicious PowerShell Activity
+![Suspicious PowerShell Activity](Screenshot%202026-08-09%20at%2010.04.04%20PM.png)
+
+### Failed Windows Login Detection
+![Failed Windows Login Detection](Screenshot%202026-08-09%20at%2010.45.50%20PM.png)
